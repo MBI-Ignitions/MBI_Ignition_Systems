@@ -1,2 +1,2 @@
 # MBI_Ignition_Systems
-Repository for uploading ignition system information
+Repo for ignition systems and Wiki for tuning them
