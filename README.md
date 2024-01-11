@@ -35,7 +35,11 @@ There are a few ways you can go about acquiring a CDI. You can:
 Since this is an open-source passion project, we are adding information when we find time to. The wiki will start to get more and more information as we build more testing equipment and gather more knowledge from the community. If you think that there's more to add then consider becoming a contributor or donating to the project!
 
 ## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the designs in accordance with the terms outlined in the license.
+This project is licensed under the GPLv3 License. Feel free to use, modify, and distribute the designs in accordance with the terms outlined in the license.
+
+## Donate
+If you find this information helpful then consider contributing to the project! ALL DONATIONS GO TOWARDS THIS REPO! 
+<a href="https://www.buymeacoffee.com/mbiignitions" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## Contact
 If have any questions then feel free to message us on facebook at Mbi Ignitions, or email us [here](mailto:mbiignitions@protonmail.com)
