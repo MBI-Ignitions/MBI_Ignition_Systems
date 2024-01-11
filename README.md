@@ -9,6 +9,7 @@ Welcome to the Motorized Bike Ignition Systems (MBI) repository! This open-sourc
 - [Acquiring](#acquiring)
 - [Updates](#updates)
 - [License](#license)
+- [Donate](#donate)
 - [Contact](#contact)
 
 ## Introduction
@@ -38,8 +39,12 @@ Since this is an open-source passion project, we are adding information when we 
 This project is licensed under the GPLv3 License. Feel free to use, modify, and distribute the designs in accordance with the terms outlined in the license.
 
 ## Donate
-If you find this information helpful then consider contributing to the project! ALL DONATIONS GO TOWARDS THIS REPO! 
+If you find this information helpful then consider contributing to the project! All donations go towards contributing to this repo and developing open source devices to add. 
+
+<p align="center">
 <a href="https://www.buymeacoffee.com/mbiignitions" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
+
 
 ## Contact
 If have any questions then feel free to message us on facebook at Mbi Ignitions, or email us [here](mailto:mbiignitions@protonmail.com)
