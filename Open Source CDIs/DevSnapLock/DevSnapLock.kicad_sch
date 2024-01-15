@@ -1142,7 +1142,7 @@
     (property "Value" "0.47u" (at 187.96 108.839 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_Tantal_D5.5mm_P5.00mm" (at 183.1848 102.87 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_Tantal_D5.5mm_P2.50mm" (at 183.1848 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 184.15 106.68 0)
